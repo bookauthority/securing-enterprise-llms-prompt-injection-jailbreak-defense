@@ -1,0 +1,2 @@
+# No runtime dependencies are required; implementation uses only the Python standard library.
+# This file exists to satisfy standard project structure and tooling expectations.
